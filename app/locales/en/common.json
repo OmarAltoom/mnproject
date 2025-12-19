@@ -1,0 +1,107 @@
+{
+  "brand": "PneumoDetect",
+  "navTagline": "Advanced Medical AI",
+  "home": "Home",
+  "login": "Login",
+  "signup": "Sign Up",
+  "langSwitch": "عربي",
+  "langSwitchAria": "Switch language to Arabic",
+  "hero": {
+    "title": "AI-Powered Disease Detection",
+    "subtitle": "Advanced medical intelligence for instant insights",
+    "desc": "A modern platform that analyzes medical images with high accuracy, gives doctors and patients fast answers, and keeps your data safe.",
+    "primaryCta": "Start for free",
+    "secondaryCta": "Login"
+  },
+  "features": {
+    "title": "System Features",
+    "subtitle": "We bring the best diagnostic technology to your workflow",
+    "items": [
+      { "icon": "/icons/ai.svg", "title": "Instant Image Analysis", "desc": "Fast, precise results right after you upload." },
+      { "icon": "/icons/xray.svg", "title": "Medical-Grade Accuracy", "desc": "Built on the latest medical AI research." },
+      { "icon": "/icons/result.svg", "title": "For Doctors & Patients", "desc": "Simple experience with organized history." }
+    ],
+    "extras": [
+      { "icon": "🔒", "title": "High security", "desc": "Your medical data stays protected." },
+      { "icon": "⚡", "title": "Super fast", "desc": "Optimized processing and delivery." },
+      { "icon": "📊", "title": "Detailed reports", "desc": "Clear, comprehensive medical summaries." },
+      { "icon": "🌐", "title": "Always available", "desc": "24/7 cloud service with monitoring." }
+    ]
+  },
+  "workflow": {
+    "title": "How it works",
+    "subtitle": "From upload to insight in seconds",
+    "steps": [
+      { "icon": "/icons/ai.svg", "title": "1. Upload the X-ray", "desc": "Submit your medical image securely." },
+      { "icon": "/icons/xray.svg", "title": "2. AI model analysis", "desc": "Our AI analyzes with high accuracy." },
+      { "icon": "/icons/result.svg", "title": "3. Instant result view", "desc": "See your diagnostic report immediately." }
+    ]
+  },
+  "stats": {
+    "title": "Numbers that matter",
+    "subtitle": "We focus on speed, trust, and accuracy",
+    "cards": [
+      { "number": 99.8, "suffix": "%", "label": "Diagnosis accuracy", "description": "Extremely high detection precision", "icon": "🎯" },
+      { "number": 15000, "suffix": "+", "label": "Active users", "description": "Doctors and patients trust us", "icon": "👥" },
+      { "number": 75000, "suffix": "+", "label": "Successful analyses", "description": "Images processed with care", "icon": "📊" },
+      { "number": 24, "suffix": "/7", "label": "Live support", "description": "Around-the-clock availability", "icon": "⏰" }
+    ]
+  },
+  "testimonials": {
+    "title": "What our users say",
+    "subtitle": "Real experiences from clinicians and patients",
+    "items": [
+      { "name": "Dr. Ahmed Mohamed", "role": "Radiology consultant", "image": "/icons/ai.svg", "rating": 5, "text": "A great system that helps me diagnose with high precision. Easy UI and fast results." },
+      { "name": "Dr. Sarah Ahmed", "role": "Internal medicine physician", "image": "/icons/xray.svg", "rating": 5, "text": "Cutting-edge tech that saves time. I recommend it to all doctors." },
+      { "name": "Mohammed Ali", "role": "Patient", "image": "/icons/result.svg", "rating": 5, "text": "I received a quick and accurate diagnosis. Excellent service and helpful team." },
+      { "name": "Dr. Fatima Hassan", "role": "Respiratory consultant", "image": "/icons/settings.svg", "rating": 5, "text": "The best AI diagnostic platform. Precise results and detailed reports." }
+    ],
+    "badges": [
+      { "text": "Trusted by 15K+ users", "icon": "✓" },
+      { "text": "99.8% accuracy", "icon": "★" },
+      { "text": "24/7 support", "icon": "♥" },
+      { "text": "ISO certified", "icon": "◆" }
+    ]
+  },
+  "footer": {
+    "quickLinksHeading": "Quick Links",
+    "supportHeading": "Support",
+    "contactHeading": "Contact",
+    "description": "An advanced medical AI platform delivering fast, accurate diagnostics.",
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About", "href": "/about" },
+      { "label": "Services", "href": "/services" },
+      { "label": "Blog", "href": "/blog" }
+    ],
+    "supportLinks": [
+      { "label": "FAQ", "href": "/faq" },
+      { "label": "Contact", "href": "/contact" },
+      { "label": "Privacy Policy", "href": "/privacy" },
+      { "label": "Terms & Conditions", "href": "/terms" }
+    ],
+    "contact": {
+      "emailLabel": "Email",
+      "phoneLabel": "Phone",
+      "addressLabel": "Address",
+      "address": "Irbid, Jordan"
+    },
+    "serviceStatus": "Service is online",
+    "madeIn": "Made with ❤️ in IRBED",
+    "copyright": "© {year} All rights reserved"
+  },
+  "layout": {
+    "version": "Version: 1.0",
+    "status": "Connected ✓"
+  },
+  "notFound": {
+    "title": "404 - Page Not Found",
+    "subtitle": "Sorry, the page you are looking for does not exist or has been moved.",
+    "popularPages": "Popular Pages:",
+    "home": "Home",
+    "login": "Login",
+    "signup": "Sign Up",
+    "contact": "Contact Us",
+    "backHome": "Back to Home"
+  }
+}

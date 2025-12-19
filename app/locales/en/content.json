@@ -1,0 +1,142 @@
+{
+  "content": {
+    "hero": {
+      "title": "Intelligent disease detection",
+      "subtitle": "Powered by advanced AI",
+      "desc": "A cutting-edge platform to analyze medical images and deliver accurate, fast insights with AI.",
+      "primaryCta": "Get started free",
+      "secondaryCta": "Log in",
+      "stats": [
+        { "number": "99.5%", "label": "Diagnostic accuracy" },
+        { "number": "+10K", "label": "Active users" },
+        { "number": "+50K", "label": "Successful analyses" },
+        { "number": "24/7", "label": "Always-on support" }
+      ]
+    },
+    "workflow": {
+      "title": "How the system works",
+      "subtitle": "Simple, fast steps to get your diagnosis",
+      "steps": [
+        { "icon": "/icons/ai.svg", "title": "1. Upload image", "desc": "Upload your medical X-ray" },
+        { "icon": "/icons/xray.svg", "title": "2. Smart analysis", "desc": "AI analyzes the image" },
+        { "icon": "/icons/result.svg", "title": "3. Instant result", "desc": "Get an accurate diagnosis" }
+      ],
+      "ctaTitle": "Ready to start?",
+      "ctaSubtitle": "Begin your diagnosis now"
+    },
+    "stats": {
+      "title": "Numbers that speak",
+      "subtitle": "We are proud of our achievements and keep raising the bar",
+      "cards": [
+        { "number": 99.8, "suffix": "%", "label": "Diagnostic accuracy", "description": "Ultra-high accuracy rate", "icon": "🎯" },
+        { "number": 15000, "suffix": "+", "label": "Active users", "description": "Doctors and patients trust us", "icon": "👥" },
+        { "number": 75000, "suffix": "+", "label": "Successful analyses", "description": "Images analyzed successfully", "icon": "📊" },
+        { "number": 24, "suffix": "/7", "label": "Continuous support", "description": "Support around the clock", "icon": "⏰" }
+      ],
+      "ctaTitle": "Join thousands of happy users",
+      "ctaSubtitle": "Start your free experience today"
+    },
+    "faqPage": {
+      "title": "Frequently Asked Questions",
+      "description": "Answers to the most common questions about Detect AI",
+      "categories": [
+        {
+          "category": "General",
+          "questions": [
+            { "q": "What is Detect AI?", "a": "Detect AI is an advanced system that uses AI to detect diseases by analyzing medical images like X-rays." },
+            { "q": "How does the system work?", "a": "It relies on deep learning models trained on millions of images and compares your upload to detect findings." },
+            { "q": "Is the system medically approved?", "a": "Yes, it is cleared for clinical use as a physician-assist tool. Always consult a doctor for confirmation." }
+          ]
+        },
+        {
+          "category": "Usage",
+          "questions": [
+            { "q": "How do I upload an image?", "a": "After signing in, go to Upload X-ray and drag the file or pick it. JPG, PNG, DICOM are supported." },
+            { "q": "How long does analysis take?", "a": "Typically 10-30 seconds depending on image size and quality." },
+            { "q": "Can I save results?", "a": "Yes, every analysis is saved to your profile for later review." }
+          ]
+        },
+        {
+          "category": "Security & Privacy",
+          "questions": [
+            { "q": "Is my data safe?", "a": "We use strong encryption and strict controls. Your images and medical data are protected." },
+            { "q": "Who can access my data?", "a": "Only you and your authorized physician. We never share without your consent." },
+            { "q": "How do you protect privacy?", "a": "We comply with medical data standards (HIPAA-like) and enforce strict privacy policies." }
+          ]
+        },
+        {
+          "category": "Account & Billing",
+          "questions": [
+            { "q": "Is signup free?", "a": "Yes, creating an account is free." },
+            { "q": "What does analysis cost?", "a": "We offer tiered plans; see pricing for details." },
+            { "q": "How do I cancel?", "a": "You can cancel anytime from account settings without extra fees." }
+          ]
+        },
+        {
+          "category": "Support",
+          "questions": [
+            { "q": "How do I contact support?", "a": "Email support@detect-ai.com, use Contact page, or live chat." },
+            { "q": "What if I face a technical issue?", "a": "Contact support immediately; we'll help you resolve it quickly." },
+            { "q": "Is support 24/7?", "a": "Yes, our support team is available around the clock." }
+          ]
+        }
+      ],
+      "ctaTitle": "Didn't find your answer?",
+      "ctaSubtitle": "Reach out and we'll be happy to assist",
+      "ctaButton": "Contact us"
+    },
+    "contactPage": {
+      "title": "Contact Us",
+      "description": "We're here to help. Reach out for any questions or suggestions.",
+      "form": {
+        "name": "Full name",
+        "email": "Email",
+        "phone": "Phone number",
+        "subject": "Subject",
+        "subjectPlaceholder": "Choose a topic",
+        "options": {
+          "general": "General inquiry",
+          "technical": "Technical support",
+          "business": "Business inquiry",
+          "feedback": "Feedback & suggestions"
+        },
+        "message": "Message",
+        "messagePlaceholder": "Write your message here...",
+        "submit": "Send message"
+      },
+      "info": {
+        "emailTitle": "Email",
+        "phoneTitle": "Phone",
+        "addressTitle": "Address",
+        "hoursTitle": "Working hours",
+        "emails": ["support@detect-ai.com", "info@detect-ai.com"],
+        "phones": ["+966 50 123 4567", "+966 50 765 4321"],
+        "addressLines": ["Riyadh, Saudi Arabia", "Al-Sulaimaniah, King Fahd Rd"],
+        "hours": ["Sunday - Thursday: 9:00 AM - 6:00 PM", "Friday - Saturday: Closed"]
+      }
+    },
+    "about": {
+      "title": "About Us",
+      "description": "A team of AI and medical experts building innovative health solutions.",
+      "visionTitle": "Vision",
+      "visionDesc": "Lead globally in AI-powered early disease detection to save lives and improve care.",
+      "missionTitle": "Mission",
+      "missionDesc": "Deliver fast, accurate AI diagnostics while protecting privacy and security.",
+      "valuesTitle": "Our Values",
+      "values": [
+        { "title": "Precision & Quality", "desc": "We commit to the highest diagnostic standards." },
+        { "title": "Privacy & Security", "desc": "Patient data protection is our top priority." },
+        { "title": "Continuous Innovation", "desc": "We improve our models relentlessly." }
+      ],
+      "stats": [
+        { "num": "50+", "label": "Specialists" },
+        { "num": "10K+", "label": "Happy patients" },
+        { "num": "98%", "label": "Accuracy" },
+        { "num": "24/7", "label": "Always on" }
+      ],
+      "techTitle": "Our Technology",
+      "techDesc": "State-of-the-art deep learning and neural networks trained on millions of trusted medical images.",
+      "techList": ["Deep learning", "Neural networks", "Image processing"]
+    }
+  }
+}

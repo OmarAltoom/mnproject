@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "login": {
+      "title": "تسجيل الدخول - Detect AI",
+      "description": "سجل دخولك إلى Detect AI للوصول إلى لوحتك وتحليلاتك.",
+      "openGraph": {
+        "title": "تسجيل الدخول - Detect AI",
+        "description": "الوصول إلى حسابك في Detect AI"
+      }
+    },
+    "signup": {
+      "title": "إنشاء حساب - Detect AI",
+      "description": "أنشئ حساباً في Detect AI لتحليل الصور الطبية بالذكاء الاصطناعي.",
+      "openGraph": {
+        "title": "إنشاء حساب - Detect AI",
+        "description": "انضم إلى Detect AI للوصول إلى التشخيص الذكي"
+      }
+    },
+    "faq": {
+      "title": "الأسئلة الشائعة - Detect AI",
+      "description": "إجابات على الأسئلة الشائعة حول نظام Detect AI للكشف عن الأمراض بالذكاء الاصطناعي",
+      "openGraph": {
+        "title": "الأسئلة الشائعة - Detect AI",
+        "description": "إجابات على أسئلتك حول نظام Detect AI"
+      }
+    },
+    "contact": {
+      "title": "اتصل بنا - Detect AI",
+      "description": "تواصل مع فريق Detect AI. نحن هنا لمساعدتك في أي استفسارات حول نظام الكشف الذكي.",
+      "openGraph": {
+        "title": "اتصل بنا - Detect AI",
+        "description": "تواصل مع فريق Detect AI للاستفسارات والدعم"
+      }
+    },
+    "about": {
+      "title": "من نحن - Detect AI",
+      "description": "تعرف على Detect AI - نظام رائد في مجال الكشف عن الأمراض بالذكاء الاصطناعي.",
+      "openGraph": {
+        "title": "من نحن - Detect AI",
+        "description": "نظام رائد في مجال الكشف عن الأمراض بالذكاء الاصطناعي"
+      }
+    }
+  }
+}

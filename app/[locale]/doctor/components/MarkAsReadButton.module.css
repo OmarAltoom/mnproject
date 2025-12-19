@@ -1,0 +1,14 @@
+.markReadBtn {
+  background: #38bdf8;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.4rem 1rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+  transition: background 0.2s;
+}
+
+.markReadBtn:hover {
+  background: #2563eb;
+}

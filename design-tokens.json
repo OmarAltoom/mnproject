@@ -1,0 +1,47 @@
+{
+  "$schema": "https://example.com/design-tokens.schema.json",
+  "colors": {
+    "primary": { "value": "#FBBF24", "description": "Brand primary (warm yellow)" },
+    "secondary": { "value": "#F59E0B", "description": "Warm amber accent" },
+    "accent": { "value": "#DC2626", "description": "Deep warm red" },
+    "bright": { "value": "#FCD34D", "description": "Bright warm highlight" },
+    "dark": { "value": "#B91C1C", "description": "Deep warm contrast" },
+    "neutral": { "value": "#0f172a", "description": "Slate/neutral base (Dark mode base)" },
+    "text": { "value": "#0b0b0b", "description": "Default text on light backgrounds" },
+    "background": { "value": "#ffffff", "description": "Default app background" },
+
+    "primary-100": { "value": "#FEF3C7", "description": "Light tint of primary (yellow-100)" },
+    "primary-500": { "value": "#FBBF24", "description": "Base primary (yellow-400)" },
+    "primary-900": { "value": "#92400E", "description": "Dark shade of primary (amber-900)" },
+
+    "secondary-100": { "value": "#FED7AA", "description": "Light tint of secondary (orange-200)" },
+    "secondary-500": { "value": "#F59E0B", "description": "Base secondary (amber-500)" },
+    "secondary-900": { "value": "#78350F", "description": "Dark shade of secondary (amber-950)" },
+
+    "accent-100": { "value": "#FEE2E2", "description": "Light tint of accent (red-100)" },
+    "accent-500": { "value": "#DC2626", "description": "Base accent (red-600)" },
+    "accent-900": { "value": "#7F1D1D", "description": "Dark shade of accent (red-950)" },
+
+    "bright-100": { "value": "#FEF9C3", "description": "Light tint of bright (yellow-100)" },
+    "bright-500": { "value": "#FCD34D", "description": "Base bright (yellow-300)" },
+    "bright-900": { "value": "#854D0E", "description": "Dark shade of bright (yellow-900)" },
+
+    "dark-100": { "value": "#FECACA", "description": "Light tint of dark (red-200)" },
+    "dark-500": { "value": "#B91C1C", "description": "Base dark (red-700)" },
+    "dark-900": { "value": "#450A0A", "description": "Deep dark shade (red-950)" }
+  },
+  "radii": {
+    "sm": "8px",
+    "md": "12px",
+    "lg": "16px",
+    "xl": "24px"
+  },
+  "shadows": {
+    "soft": "0 8px 24px rgba(0,0,0,0.08)",
+    "lift": "0 12px 32px rgba(0,0,0,0.12)"
+  },
+  "opacity": {
+    "glass": "0.65",
+    "hoverSheen": "0.35"
+  }
+}

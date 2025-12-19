@@ -1,0 +1,29 @@
+.attachments {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 8px;
+}
+.fileInput {
+  display: none;
+}
+.attachBtn {
+  padding: 4px 10px;
+  background: #0070f3;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+.attachBtn:hover {
+  background: #005bb5;
+}
+.attachment {
+  font-size: 13px;
+  color: #333;
+  background: #f8f8f8;
+  border-radius: 4px;
+  padding: 4px 8px;
+  margin-right: 6px;
+}

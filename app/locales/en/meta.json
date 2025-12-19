@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "login": {
+      "title": "Login - Detect AI",
+      "description": "Sign in to Detect AI to access your dashboard and analyses.",
+      "openGraph": {
+        "title": "Login - Detect AI",
+        "description": "Access your Detect AI account."
+      }
+    },
+    "signup": {
+      "title": "Sign Up - Detect AI",
+      "description": "Create a Detect AI account to analyze medical images with AI.",
+      "openGraph": {
+        "title": "Sign Up - Detect AI",
+        "description": "Join Detect AI to access smart diagnostics."
+      }
+    },
+    "faq": {
+      "title": "FAQ - Detect AI",
+      "description": "Answers to the most common questions about Detect AI",
+      "openGraph": {
+        "title": "FAQ - Detect AI",
+        "description": "Answers to your questions about Detect AI"
+      }
+    },
+    "contact": {
+      "title": "Contact - Detect AI",
+      "description": "Contact the Detect AI team. We're here to help with any inquiries about the intelligent detection system.",
+      "openGraph": {
+        "title": "Contact - Detect AI",
+        "description": "Reach out to the Detect AI team for inquiries and support"
+      }
+    },
+    "about": {
+      "title": "About - Detect AI",
+      "description": "Learn about Detect AI - a leading system for AI-powered disease detection.",
+      "openGraph": {
+        "title": "About - Detect AI",
+        "description": "A leading system for AI-powered disease detection"
+      }
+    }
+  }
+}

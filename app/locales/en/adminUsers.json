@@ -1,0 +1,43 @@
+{
+  "title": "User Management",
+  "subtitle": "View and manage all system users",
+  "exportButton": "Export",
+  "addButton": "Add User",
+  "searchPlaceholder": "Search by name, email, or phone...",
+  "filters": {
+    "allRoles": "All Roles",
+    "allStatuses": "All Statuses"
+  },
+  "roles": {
+    "admin": "Admin",
+    "doctor": "Doctor",
+    "patient": "Patient"
+  },
+  "statuses": {
+    "active": "Active",
+    "suspended": "Suspended",
+    "banned": "Banned"
+  },
+  "table": {
+    "user": "User",
+    "role": "Role",
+    "status": "Status",
+    "joinDate": "Join Date",
+    "lastLogin": "Last Login",
+    "actions": "Actions"
+  },
+  "toast": {
+    "fillFields": "Please fill all fields",
+    "userAdded": "User added successfully",
+    "userUpdated": "User updated successfully",
+    "userDeleted": "User deleted",
+    "exportStarted": "Exporting data...",
+    "notLoggedIn": "Not logged in yet"
+  },
+  "stats": {
+    "totalUsers": "Total Users",
+    "admins": "Admins",
+    "doctors": "Doctors",
+    "patients": "Patients"
+  }
+}

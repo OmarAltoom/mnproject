@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "home": "Dashboard",
+    "patients": "Patients",
+    "results": "Medical Images",
+    "chat": "Chat",
+    "appointments": "Appointments",
+    "analytics": "Analytics",
+    "notifications": "Notifications",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  },
+  "layout": {
+    "version": "Version: 1.0",
+    "status": "Connected ✓"
+  },
+  "settings": {
+    "title": "Account Settings",
+    "subtitle": "Manage your account information and preferences",
+    "tabs": {
+      "profile": "Profile",
+      "availability": "Work Hours",
+      "notifications": "Notifications",
+      "security": "Security"
+    },
+    "profile": {
+      "name": "Full Name",
+      "specialty": "Specialty",
+      "email": "Email",
+      "phone": "Phone",
+      "license": "License Number",
+      "bio": "Professional Bio",
+      "toast": { "saved": "Profile saved successfully" }
+    },
+    "availability": {
+      "toast": { "saved": "Work hours updated successfully" }
+    },
+    "notifications": {
+      "toast": { "saved": "Notification settings saved" }
+    },
+    "security": {
+      "empty": "Please fill all password fields",
+      "mismatch": "Passwords do not match",
+      "minLength": "Password must be at least 8 characters",
+      "toast": { "success": "Password changed successfully" }
+    }
+  }
+}

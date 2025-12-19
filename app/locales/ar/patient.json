@@ -1,0 +1,107 @@
+{
+  "layout": {
+    "brand": "PneumoDetect",
+    "nav": {
+      "home": "الصفحة الرئيسية",
+      "appointments": "المواعيد",
+      "results": "التقارير",
+      "chat": "الدردشة",
+      "profile": "الحساب",
+      "logout": "تسجيل الخروج"
+    },
+    "theme": {
+      "light": "الوضع النهاري",
+      "dark": "الوضع الليلي"
+    },
+    "localeToggle": {
+      "ar": "العربية",
+      "en": "English"
+    },
+    "version": "الإصدار: 1.0",
+    "status": "الحالة: متصل ✓"
+  },
+  "dashboard": {
+    "welcome": "مرحباً",
+    "stats": {
+      "upcomingAppointments": "المواعيد القادمة",
+      "readyReports": "التقارير الجاهزة",
+      "newMessages": "الرسائل الجديدة",
+      "vitalSigns": "الحالة الصحية"
+    },
+    "quickActions": {
+      "bookAppointment": "حجز موعد",
+      "uploadXray": "رفع أشعة",
+      "viewReports": "عرض التقارير",
+      "chatDoctor": "تواصل مع الطبيب",
+      "desc": {
+        "bookAppointment": "احجز موعد مع طبيبك المعالج",
+        "uploadXray": "ارفع صور الأشعة للتحليل",
+        "viewReports": "اطلع على تقاريرك الطبية",
+        "chatDoctor": "أرسل رسالة لطبيبك"
+      }
+    },
+    "tables": {
+      "upcoming": "المواعيد القادمة",
+      "reports": "التقارير الأخيرة",
+      "activity": "النشاطات الأخيرة"
+    }
+  },
+  "appointments": {
+    "title": "المواعيد",
+    "subtitle": "إدارة وتتبع مواعيدك",
+    "newButton": "حجز موعد جديد",
+    "search": "ابحث عن طبيب، تخصص أو سبب",
+    "searchPlaceholder": "ابحث عن طبيب، تخصص أو سبب",
+    "status": {
+      "all": "الكل",
+      "confirmed": "مؤكد",
+      "pending": "قيد الانتظار",
+      "cancelled": "ملغي",
+      "completed": "مكتمل"
+    },
+    "type": {
+      "all": "الكل",
+      "clinic": "عيادة",
+      "online": "عن بُعد"
+    },
+    "filters": {
+      "status": "الحالة",
+      "type": "النوع",
+      "all": "الكل",
+      "confirmed": "مؤكد",
+      "pending": "قيد الانتظار",
+      "cancelled": "ملغي",
+      "completed": "مكتمل",
+      "clinic": "عيادة",
+      "online": "عن بُعد"
+    },
+    "stats": {
+      "total": "إجمالي المواعيد",
+      "confirmed": "المؤكدة",
+      "pending": "قيد الانتظار",
+      "cancelled": "الملغاة"
+    },
+    "upcoming": "المواعيد القادمة",
+    "noUpcoming": "لا توجد مواعيد قادمة",
+    "onlineLabel": "موعد عن بُعد",
+    "reasonLabel": "السبب",
+    "notesLabel": "ملاحظات",
+    "past": "المواعيد السابقة",
+    "noPast": "لا توجد مواعيد سابقة",
+    "actions": {
+      "confirm": "تأكيد",
+      "cancel": "إلغاء",
+      "reschedule": "إعادة جدولة",
+      "book": "حجز موعد جديد"
+    },
+    "toast": {
+      "confirm": "تم تأكيد الموعد",
+      "cancel": "تم إلغاء الموعد",
+      "reschedule": "تم إرسال طلب إعادة الجدولة"
+    },
+    "modalTitle": "تحتاج موعداً جديداً؟",
+    "modalBody": "تحدث مع طبيب أو اطلب موعداً آخر.",
+    "chatButton": "محادثة مع طبيب",
+    "closeButton": "إغلاق"
+  }
+}

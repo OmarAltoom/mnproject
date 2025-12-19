@@ -1,0 +1,107 @@
+{
+  "layout": {
+    "brand": "PneumoDetect",
+    "nav": {
+      "home": "Home",
+      "appointments": "Appointments",
+      "results": "Reports",
+      "chat": "Chat",
+      "profile": "Account",
+      "logout": "Logout"
+    },
+    "theme": {
+      "light": "Light mode",
+      "dark": "Dark mode"
+    },
+    "localeToggle": {
+      "ar": "العربية",
+      "en": "English"
+    },
+    "version": "Version: 1.0",
+    "status": "Status: Online ✓"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "stats": {
+      "upcomingAppointments": "Upcoming appointments",
+      "readyReports": "Ready reports",
+      "newMessages": "New messages",
+      "vitalSigns": "Health status"
+    },
+    "quickActions": {
+      "bookAppointment": "Book appointment",
+      "uploadXray": "Upload X-ray",
+      "viewReports": "View reports",
+      "chatDoctor": "Chat with doctor",
+      "desc": {
+        "bookAppointment": "Book an appointment with your doctor",
+        "uploadXray": "Upload X-ray images for analysis",
+        "viewReports": "View your medical reports",
+        "chatDoctor": "Send a message to your doctor"
+      }
+    },
+    "tables": {
+      "upcoming": "Upcoming appointments",
+      "reports": "Recent reports",
+      "activity": "Recent activity"
+    }
+  },
+  "appointments": {
+    "title": "Appointments",
+    "subtitle": "Manage and track your appointments",
+    "newButton": "Book new appointment",
+    "search": "Search doctor, specialty, or reason",
+    "searchPlaceholder": "Search doctor, specialty, or reason",
+    "status": {
+      "all": "All",
+      "confirmed": "Confirmed",
+      "pending": "Pending",
+      "cancelled": "Cancelled",
+      "completed": "Completed"
+    },
+    "type": {
+      "all": "All",
+      "clinic": "Clinic",
+      "online": "Online"
+    },
+    "filters": {
+      "status": "Status",
+      "type": "Type",
+      "all": "All",
+      "confirmed": "Confirmed",
+      "pending": "Pending",
+      "cancelled": "Cancelled",
+      "completed": "Completed",
+      "clinic": "Clinic",
+      "online": "Online"
+    },
+    "stats": {
+      "total": "Total appointments",
+      "confirmed": "Confirmed",
+      "pending": "Pending",
+      "cancelled": "Cancelled"
+    },
+    "upcoming": "Upcoming appointments",
+    "noUpcoming": "No upcoming appointments",
+    "onlineLabel": "Online session",
+    "reasonLabel": "Reason",
+    "notesLabel": "Notes",
+    "past": "Past appointments",
+    "noPast": "No past appointments",
+    "actions": {
+      "confirm": "Confirm",
+      "cancel": "Cancel",
+      "reschedule": "Reschedule",
+      "book": "Book new appointment"
+    },
+    "toast": {
+      "confirm": "Appointment confirmed",
+      "cancel": "Appointment cancelled",
+      "reschedule": "Reschedule request sent"
+    },
+    "modalTitle": "Need a new appointment?",
+    "modalBody": "Chat with a doctor or request another time slot.",
+    "chatButton": "Chat with doctor",
+    "closeButton": "Close"
+  }
+}

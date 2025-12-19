@@ -1,0 +1,40 @@
+{
+  "title": "إدارة المستخدمين",
+  "subtitle": "عرض وإدارة جميع مستخدمي النظام",
+  "exportButton": "تصدير",
+  "addButton": "إضافة مستخدم",
+  "searchPlaceholder": "ابحث بالاسم أو البريد أو الجوال...",
+  "filters": {
+    "allRoles": "كل الأدوار",
+    "allStatuses": "كل الحالات"
+  },
+  "roles": {
+    "admin": "مدير",
+    "doctor": "طبيب",
+    "patient": "مريض"
+  },
+  "statuses": {
+    "active": "نشط",
+    "suspended": "معلق",
+    "banned": "محظور"
+  },
+  "table": {
+    "user": "المستخدم",
+    "role": "الدور",
+    "status": "الحالة",
+    "joinDate": "تاريخ الانضمام",
+    "lastLogin": "آخر تسجيل دخول",
+    "actions": "الإجراءات"
+  },
+  "stats": {
+    "totalUsers": "إجمالي المستخدمين",
+    "admins": "المدراء",
+    "doctors": "الأطباء",
+    "patients": "المرضى"
+  },
+  "actions": {
+    "viewDetails": "عرض التفاصيل",
+    "edit": "تعديل",
+    "delete": "حذف"
+  }
+}

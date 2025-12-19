@@ -1,0 +1,26 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.table th,
+.table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #eee;
+  text-align: right;
+}
+.table th {
+  background: #f8f8f8;
+  font-weight: bold;
+}
+.actionButton {
+  margin-left: 8px;
+  padding: 4px 10px;
+  background: #0070f3;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.actionButton:hover {
+  background: #005bb5;
+}

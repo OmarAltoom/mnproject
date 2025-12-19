@@ -1,0 +1,145 @@
+{
+  "termsPage": {
+    "title": "Terms of Service",
+    "description": "Terms and conditions for using Detect AI",
+    "lastUpdate": "Last updated",
+    "acceptance": {
+      "heading": "1. Acceptance of Terms",
+      "content": "By using Detect AI, you agree to be bound by these terms and conditions. If you do not agree to any of these terms, please do not use the service."
+    },
+    "serviceDescription": {
+      "heading": "2. Service Description",
+      "intro": "Detect AI is a system for disease detection using artificial intelligence. The service includes:",
+      "items": [
+        "Analysis of medical images using artificial intelligence",
+        "Provision of medical reports and recommendations",
+        "Storage and organization of medical history",
+        "Access to analysis results at any time"
+      ]
+    },
+    "registration": {
+      "heading": "3. Registration and Account",
+      "intro": "To use the service, you must:",
+      "items": [
+        "Be at least 18 years old",
+        "Provide accurate and complete information",
+        "Maintain the confidentiality of your password",
+        "Accept responsibility for all activities under your account"
+      ]
+    },
+    "serviceUsage": {
+      "heading": "4. Service Usage",
+      "allowed": {
+        "title": "4.1 Permitted Use",
+        "items": [
+          "Use the service for personal medical purposes",
+          "Store your medical images and reports",
+          "Share reports with your doctor if needed"
+        ]
+      },
+      "prohibited": {
+        "title": "4.2 Prohibited Use",
+        "items": [
+          "Use the service for illegal purposes",
+          "Upload images without consent from the patient",
+          "Attempt to access other users' data",
+          "Reverse engineer or modify the service"
+        ]
+      }
+    },
+    "medicalDisclaimer": {
+      "heading": "5. Medical Disclaimer",
+      "content": "Detect AI is an analytical tool and not a substitute for professional medical advice. All results must be reviewed and confirmed by a qualified healthcare professional. Detect AI is not responsible for any medical decisions made based on the analysis results."
+    },
+    "limitation": {
+      "heading": "6. Limitation of Liability",
+      "items": [
+        "Detect AI is provided 'as is' without warranties",
+        "We are not liable for any damages or losses resulting from service usage",
+        "We do not guarantee 100% accuracy of analysis results"
+      ]
+    },
+    "changes": {
+      "heading": "7. Changes to Terms",
+      "content": "We reserve the right to modify these terms at any time. Continued use of the service constitutes acceptance of changes."
+    },
+    "contact": {
+      "heading": "8. Contact Us",
+      "content": "For questions about these terms, please contact us at support@detect-ai.com"
+    }
+  },
+  "privacyPage": {
+    "title": "Privacy Policy",
+    "description": "How we protect your data and privacy at Detect AI",
+    "lastUpdate": "Last updated",
+    "introduction": {
+      "heading": "1. Introduction",
+      "content": "At Detect AI, we are committed to protecting your privacy and the security of your personal and medical information. This policy explains how we collect, use, and protect your data."
+    },
+    "informationCollection": {
+      "heading": "2. Information We Collect",
+      "personal": {
+        "title": "2.1 Personal Information",
+        "items": ["Full name", "Email address", "Phone number", "Date of birth", "Medical ID (if applicable)"]
+      },
+      "medical": {
+        "title": "2.2 Medical Information",
+        "items": ["Medical images (X-rays, CT scans, etc.)", "Medical history", "Allergies", "Current medications", "Analysis results"]
+      },
+      "technical": {
+        "title": "2.3 Technical Information",
+        "items": ["IP address", "Device information", "Browser type", "Access times and duration"]
+      }
+    },
+    "dataUsage": {
+      "heading": "3. How We Use Your Data",
+      "items": [
+        "To provide and improve our services",
+        "To generate medical analysis reports",
+        "To store your medical history",
+        "To send you important updates",
+        "To enhance security and detect fraud"
+      ]
+    },
+    "dataProtection": {
+      "heading": "4. Data Protection",
+      "measures": [
+        "Encryption of all data in transit and at rest",
+        "Regular security audits and updates",
+        "Limited access to personal data (authorized personnel only)",
+        "Compliance with international data protection standards",
+        "Regular backups and disaster recovery procedures"
+      ]
+    },
+    "dataSecurity": {
+      "heading": "5. Data Security",
+      "content": "While we implement strong security measures, no system is completely secure. We cannot guarantee absolute security of your data."
+    },
+    "thirdParty": {
+      "heading": "6. Third Party Services",
+      "content": "We may use third-party services for hosting, analytics, and payment processing. These providers are contractually obligated to protect your data."
+    },
+    "userRights": {
+      "heading": "7. Your Rights",
+      "items": [
+        "Access your personal data",
+        "Request corrections to inaccurate data",
+        "Request deletion of your data (where applicable)",
+        "Object to certain types of processing",
+        "Request data portability"
+      ]
+    },
+    "cookies": {
+      "heading": "8. Cookies",
+      "content": "We use cookies to improve user experience, analyze usage, and enhance security. You can control cookie preferences through your browser settings."
+    },
+    "policyChanges": {
+      "heading": "9. Policy Changes",
+      "content": "We may update this policy periodically. We will notify you of any significant changes and update the \"Last updated\" date."
+    },
+    "contact": {
+      "heading": "10. Contact Us",
+      "content": "If you have questions about this Privacy Policy, contact us at support@detect-ai.com"
+    }
+  }
+}

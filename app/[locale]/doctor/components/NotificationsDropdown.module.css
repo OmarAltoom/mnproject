@@ -1,0 +1,31 @@
+.dropdown {
+  position: absolute;
+  top: 2.5rem;
+  right: 0;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.10);
+  min-width: 320px;
+  z-index: 1001;
+  padding: 1rem;
+}
+
+.dropdown h3 {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #2563eb;
+}
+
+.dropdown ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.empty {
+  color: #888;
+  text-align: center;
+  padding: 1rem 0;
+}

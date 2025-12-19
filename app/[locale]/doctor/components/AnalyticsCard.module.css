@@ -1,0 +1,26 @@
+.card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.10);
+  padding: 18px;
+  min-width: 180px;
+}
+.icon {
+  font-size: 32px;
+  color: #0070f3;
+}
+.value {
+  font-size: 22px;
+  font-weight: bold;
+  color: #222;
+}
+.title {
+  font-size: 15px;
+  color: #888;
+}
+.accent {
+  color: #e91e63;
+}

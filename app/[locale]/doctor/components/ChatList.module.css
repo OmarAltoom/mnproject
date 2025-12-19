@@ -1,0 +1,36 @@
+.chatList {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  background: #f8f8f8;
+  border-radius: 8px;
+  padding: 12px;
+  min-width: 180px;
+}
+.chatItem {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 0;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+  transition: background 0.2s;
+}
+.chatItem:last-child {
+  border-bottom: none;
+}
+.chatItem.selected {
+  background: #e6f0ff;
+}
+.avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid #ddd;
+}
+.name {
+  font-size: 15px;
+  font-weight: bold;
+  color: #222;
+}

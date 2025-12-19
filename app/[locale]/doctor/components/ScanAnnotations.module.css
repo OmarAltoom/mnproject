@@ -1,0 +1,22 @@
+.annotations {
+  margin-top: 16px;
+  padding: 12px;
+  background: #f9f9f9;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+.annotation {
+  font-size: 15px;
+  color: #333;
+  margin-bottom: 8px;
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+}
+.annotation:last-child {
+  border-bottom: none;
+}
+.position {
+  font-size: 13px;
+  color: #888;
+  margin-left: 8px;
+}

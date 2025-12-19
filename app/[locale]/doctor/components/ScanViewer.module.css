@@ -1,0 +1,37 @@
+.viewer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+.content {
+  background: #fff;
+  border-radius: 10px;
+  padding: 32px;
+  min-width: 400px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.15);
+  position: relative;
+}
+.closeBtn {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  background: transparent;
+  border: none;
+  font-size: 22px;
+  cursor: pointer;
+}
+.image {
+  width: 320px;
+  height: 320px;
+  object-fit: contain;
+  border-radius: 8px;
+  background: #f8f8f8;
+  margin-bottom: 18px;
+}

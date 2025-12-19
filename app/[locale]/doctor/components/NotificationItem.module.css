@@ -1,0 +1,37 @@
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #f8fafc;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+
+.urgent {
+  border-left: 4px solid #f43f5e;
+  background: #fff0f3;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.type {
+  font-size: 0.95rem;
+  color: #2563eb;
+  font-weight: bold;
+}
+
+.text {
+  font-size: 1rem;
+  color: #333;
+}
+
+.time {
+  font-size: 0.85rem;
+  color: #888;
+}
